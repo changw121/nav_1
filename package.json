@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && npx parcel build src/index.html --public-url ./"
+  },
+  "name": "nav_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:changw121/nav_1.git",
+  "author": "changw <2283992824@qq.com>",
+  "license": "MIT"
+}
