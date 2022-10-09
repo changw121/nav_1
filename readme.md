@@ -10,3 +10,4 @@ parcel src/index.html
 ```
 yarn build
 ```
+命令没有放在package.json里面。。。
