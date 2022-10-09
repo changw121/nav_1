@@ -1,0 +1,13 @@
+12
+48F:\Learn\learn_Vue\frankfang\nav_1\src\style.css133096714254262830 0
+39F:\Learn\learn_Vue\frankfang\nav_1\dist133096714255302820 1
+38F:\Learn\learn_Vue\frankfang\nav_1\src133096671911281238 1
+49F:\Learn\learn_Vue\frankfang\nav_1\src\index.html133096690721405107 0
+62F:\Learn\learn_Vue\frankfang\nav_1\dist\index.2cdaf7bc.css.map133096714255292807 0
+58F:\Learn\learn_Vue\frankfang\nav_1\dist\index.2cdaf7bc.css133096714255262827 0
+46F:\Learn\learn_Vue\frankfang\nav_1\src\main.js133096671815757458 0
+61F:\Learn\learn_Vue\frankfang\nav_1\dist\index.de158e3a.js.map133096710831772175 0
+61F:\Learn\learn_Vue\frankfang\nav_1\dist\nav_1.59712999.js.map133096710831762147 0
+57F:\Learn\learn_Vue\frankfang\nav_1\dist\index.de158e3a.js133096710831552098 0
+50F:\Learn\learn_Vue\frankfang\nav_1\dist\index.html133096710831762147 0
+57F:\Learn\learn_Vue\frankfang\nav_1\dist\nav_1.59712999.js133096710831532112 0

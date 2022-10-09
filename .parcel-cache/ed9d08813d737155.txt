@@ -1,0 +1,19 @@
+18
+48F:\Learn\learn_Vue\frankfang\nav_1\src\style.css133097936115283782 0
+39F:\Learn\learn_Vue\frankfang\nav_1\dist133097945689543342 1
+45F:\Learn\learn_Vue\frankfang\nav_1\src\images133097798310578253 1
+38F:\Learn\learn_Vue\frankfang\nav_1\src133097798310578253 1
+49F:\Learn\learn_Vue\frankfang\nav_1\src\index.html133097908138167296 0
+62F:\Learn\learn_Vue\frankfang\nav_1\dist\index.2cdaf7bc.css.map133097942990014269 0
+58F:\Learn\learn_Vue\frankfang\nav_1\dist\index.2cdaf7bc.css133097942989964268 0
+46F:\Learn\learn_Vue\frankfang\nav_1\src\main.js133097940553037624 0
+58F:\Learn\learn_Vue\frankfang\nav_1\src\images\bilibili.png133097797847218278 0
+57F:\Learn\learn_Vue\frankfang\nav_1\dist\index.9722867e.js133097943340670867 0
+61F:\Learn\learn_Vue\frankfang\nav_1\dist\index.9722867e.js.map133097943340730827 0
+61F:\Learn\learn_Vue\frankfang\nav_1\dist\nav_1.59712999.js.map133097942990014269 0
+57F:\Learn\learn_Vue\frankfang\nav_1\dist\index.de158e3a.js133097942989964268 0
+61F:\Learn\learn_Vue\frankfang\nav_1\dist\index.de158e3a.js.map133097942990014269 0
+58F:\Learn\learn_Vue\frankfang\nav_1\dist\index.f24ad93e.css133097943340670867 0
+62F:\Learn\learn_Vue\frankfang\nav_1\dist\index.f24ad93e.css.map133097943340730827 0
+50F:\Learn\learn_Vue\frankfang\nav_1\dist\index.html133097945689523388 0
+57F:\Learn\learn_Vue\frankfang\nav_1\dist\nav_1.59712999.js133097942989964268 0
